@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.venv/
+.ruff_cache/
+
+# training runs / logs / results
+experiments/vggtroma/runs/
+wandb/
+results/
+dense_benchmarks_results.txt
+
+# data & checkpoints (downloaded separately, see README)
+data/
+*.pt
+*.pth
+.WxBS/

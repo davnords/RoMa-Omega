@@ -1,0 +1,35 @@
+[project]
+name = "romaomega"
+version = "1.0.0"
+description = "A strong but slow dense feature matcher."
+readme = "README.md"
+authors = [
+    { name = "David Nordström", email = "davnords@chalmers.se" }
+]
+requires-python = ">=3.10"
+dependencies = [
+    "dataclasses>=0.8",
+    "einops>=0.8.1",
+    "flow-vis",
+    "h5py>=3.15.1",
+    "huggingface-hub>=1.1.5",
+    "opencv-python>=4.12.0.88",
+    "openexr>=3.4.4",
+    "pandas>=2.3.3",
+    "pillow>=12.0.0",
+    "rich>=14.2.0",
+    "ruff>=0.14.5",
+    "safetensors>=0.7.0",
+    "torch",
+    "torchvision>=0.23.0",
+    "tqdm>=4.67.1",
+    "scipy>=1.15.3",
+    "tyro",
+    "wandb>=0.23.0",
+    "wxbs-benchmark>=0.0.4",
+    "hardmatch>=1.0.0",
+]
+
+[build-system]
+requires = ["uv_build>=0.8.15,<0.9.0"]
+build-backend = "uv_build"
