@@ -2,7 +2,7 @@
 <h1>RoMa-Ω: What Feed-Forward 3D Models Know About Image Matching</h1>
 
 
-<a href="https://arxiv.org/abs/TBD"><img src="https://img.shields.io/badge/arXiv-2604.04931-b31b1b" alt="arXiv"></a>
+<a href="https://arxiv.org/abs/2609.09507"><img src="https://img.shields.io/badge/arXiv-2609.09507-b31b1b" alt="arXiv"></a>
 
 [David Nordström<sup>1</sup>](https://scholar.google.com/citations?user=-vJPE04AAAAJ),
 [Xinyue Zhang<sup>2</sup>](https://scholar.google.fi/citations?user=WvixLxcAAAAJ),
